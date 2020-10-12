@@ -2,5 +2,10 @@
   .jumbotron {
     background-image: url("../assets/winter-view.jpg");
     background-size: cover;
+
+    .logo {
+      max-width: 90%;
+      height: auto;
+    }
   }
 }

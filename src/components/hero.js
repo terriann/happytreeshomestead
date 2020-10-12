@@ -9,6 +9,7 @@ function Intro() {
         <div className="container">
           <div class="d-flex justify-content-center py-4">
             <img
+              className="logo"
               src={logo}
               alt="Logo for Happy Trees Homestead including icon of a pine tree and est 2018"
             />

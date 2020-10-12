@@ -15,7 +15,7 @@ function Header() {
               alt="Logo for Happy Trees Homestead in black including icon of a pine tree"
             />
           </div>
-          <div class="p-2 align-self-center">Home</div>
+          <div className="p-2 align-self-center">Home</div>
         </div>
       </div>
     </header>
