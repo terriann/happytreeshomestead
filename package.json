@@ -2,7 +2,7 @@
   "name": "happytreehomestead.com",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://terriann.github.io/happytreeshomestead.com/",
+  "homepage": "https://terriann.github.io/happytreeshomestead",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
