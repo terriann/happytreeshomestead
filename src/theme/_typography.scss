@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lora&display=swap");
+
+/*===================================================================*/
+/*
+/* TYPOGRAPHY
+/*
+/*===================================================================*/
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  letter-spacing: 0.025em;
+  word-wrap: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  font-family: "Lora", serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", sans-serif;
+}
