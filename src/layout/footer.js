@@ -1,11 +1,13 @@
 import React from "react";
 
 function Footer() {
+  const year = new Date().getFullYear();
+
   return (
     <footer className="footer bg-dark text-white py-4">
       <div class="container">
         <p className="text-center">
-          &copy; 2017-2020 Happy Trees Homestead &middot; Hosted on{" "}
+          &copy; 2018-{year} Happy Trees Homestead &middot; Hosted on{" "}
           <a
             href="https://github.com/terriann/happytreeshomestead"
             className="text-white"
