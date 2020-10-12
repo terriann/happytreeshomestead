@@ -7,12 +7,14 @@ function Intro() {
     <div className="intro">
       <div className="jumbotron jumbotron-fluid">
         <div className="container">
-          <div className="d-flex justify-content-center py-4">
-            <img
-              className="logo"
-              src={logo}
-              alt="Logo for Happy Trees Homestead including icon of a pine tree and est 2018"
-            />
+          <div className="col-8 mx-auto">
+            <div className="py-3 py-md-4 text-center">
+              <img
+                className="logo"
+                src={logo}
+                alt="Logo for Happy Trees Homestead including icon of a pine tree and est 2018"
+              />
+            </div>
           </div>
         </div>
       </div>
