@@ -5,7 +5,7 @@ function Footer() {
 
   return (
     <footer className="footer bg-dark text-white py-4">
-      <div class="container">
+      <div className="container">
         <p className="text-center">
           &copy; 2018-{year} Happy Trees Homestead &middot; Hosted on{" "}
           <a

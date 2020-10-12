@@ -7,8 +7,8 @@ function Header() {
   return (
     <header className="header">
       <div className="container">
-        <div class="d-flex">
-          <div class="mr-auto p-2">
+        <div className="d-flex">
+          <div className="mr-auto p-2">
             <img
               src={logo}
               className="logo"

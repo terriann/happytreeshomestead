@@ -7,7 +7,7 @@ function Intro() {
     <div className="intro">
       <div className="jumbotron jumbotron-fluid">
         <div className="container">
-          <div class="d-flex justify-content-center py-4">
+          <div className="d-flex justify-content-center py-4">
             <img
               className="logo"
               src={logo}
