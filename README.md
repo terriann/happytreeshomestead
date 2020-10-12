@@ -1,6 +1,6 @@
 # Happy Trees Homestead
 
-This is a simple site, bootstrapped with [Create React App](https://github.com/facebook/create-react-app) that uses [Bootstrap 4|https://getbootstrap.com/] for a CSS framework.
+This is a simple site, bootstrapped with [Create React App](https://github.com/facebook/create-react-app) that uses [Bootstrap 4](https://getbootstrap.com/) for a CSS framework.
 
 This project is setup for easy deploying for hosting on Github Pages, perfect for when you're just squatting a landing page cause you're a domain hoarder.
 
@@ -8,7 +8,7 @@ This project is setup for easy deploying for hosting on Github Pages, perfect fo
 
 1. Clone this repo `git clone`
 2. Run `npm install` to install dependencies
-3. Run `npm start` to launch dev site [http://localhost:3000/]
+3. Run `npm start` to launch dev site [http://localhost:3000/](http://localhost:3000/)
 
 ## Scripts
 
