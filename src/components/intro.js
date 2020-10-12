@@ -7,16 +7,17 @@ function Intro() {
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-8">
-            <p className="py-3 text-center">
+            <p className="py-2 text-center">
               Established in 2018, Happy Trees Homestead is the name we gave to
-              a place that we are raising our food.
+              a place that we are raising our food. It looks great on the
+              homemade labels we use on our canned goods.
             </p>
 
-            <p className="py-3 text-center">
+            <p className="py-2 text-center">
               We are a private residence. We are not a goods-for-sale homestead.
             </p>
 
-            <p className="py-3 text-center">
+            <p className="py-2 text-center">
               Our goals this year include: growing our skills in
               self-sufficiency through gardening, raising animals, preserving,
               hunting, foraging, eating well &amp; living a good life.
