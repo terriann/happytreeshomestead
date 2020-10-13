@@ -2,9 +2,9 @@ import React from "react";
 import logo from "../assets/logo-white.png";
 import "./hero.scss";
 
-function Intro() {
+function Hero() {
   return (
-    <div className="intro">
+    <div className="hero">
       <div className="jumbotron jumbotron-fluid">
         <div className="container">
           <div className="col-8 mx-auto">
@@ -22,4 +22,4 @@ function Intro() {
   );
 }
 
-export default Intro;
+export default Hero;
